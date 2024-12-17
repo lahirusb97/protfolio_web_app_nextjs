@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Skills() {
   return (
@@ -19,7 +19,7 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord">
                 <div className="img">
-                  <img src="/assets/imgs/resume/s1.png" alt="" />
+                  <img src="/assets/images/companys.png" alt="" />
                 </div>
                 <span className="value">95%</span>
               </div>

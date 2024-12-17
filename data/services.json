@@ -1,24 +1,24 @@
 [
   {
-    "title": "Digital Product Design",
+    "title": "Branding",
     "img": "/assets/imgs/serv-icons/3.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Shopify Development.",
     "link": "/page-services-details"
   },
   {
-    "title": "Web Developments",
+    "title": "Marketing",
     "img": "/assets/imgs/serv-icons/4.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Advarticing.",
     "link": "/page-services-details"
   },
   {
-    "title": "Branding Design",
+    "title": "Web Development",
     "img": "/assets/imgs/serv-icons/5.png",
     "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
     "link": "/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "Graphic Design.",
     "img": "/assets/imgs/serv-icons/5.png",
     "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
     "link": "/page-services-details"

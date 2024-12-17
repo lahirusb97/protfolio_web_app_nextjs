@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function Footer() {
   return (
@@ -13,29 +13,36 @@ function Footer() {
           <div className="col-lg-4">
             <div className="column md-mb50">
               <h6 className="sub-title mb-30">Contact</h6>
-              <h6 className="p-color fw-400">
-                5919 Trussville Crossings <br /> Pkwy, Birmingham
-              </h6>
+
               <h6 className="mt-30 mb-15">
-                <a href="#0">Hello@webfolio.com</a>
+                <a href="#0">Hello@makingbrand.net</a>
               </h6>
               <a href="#0" className="underline">
-                <span className="fz-22 main-color">+2 456 (343) 24 45</span>
+                <span className="fz-22 main-color">+94 702 139 000</span>
               </a>
             </div>
           </div>
           <div className="col-lg-2">
             <div className="column md-mb50">
-              <h6 className="sub-title mb-30">Useful Links</h6>
+              <h6 className="sub-title mb-30">Pages</h6>
               <ul className="rest fz-14 opacity-7">
                 <li className="mb-15">
-                  <a href="/page-about">About</a>
+                  <a href="/home-personal">Home</a>
                 </li>
                 <li className="mb-15">
                   <a href="/page-services">Services</a>
                 </li>
                 <li className="mb-15">
-                  <a href="/blog-grid-sidebar">Blog</a>
+                  <a href="/blog-grid-sidebar">Work</a>
+                </li>
+                <li className="mb-15">
+                  <a href="/blog-grid-sidebar">Pricing</a>
+                </li>
+                <li className="mb-15">
+                  <a href="/blog-grid-sidebar">News</a>
+                </li>
+                <li className="mb-15">
+                  <a href="/page-about">About us</a>
                 </li>
                 <li>
                   <a href="/page-contact">Contact</a>
@@ -60,7 +67,7 @@ function Footer() {
                 </li>
                 <li className="hover-this cursor-pointer ml-10">
                   <a href="#0" className="hover-anim">
-                    <i className="fab fa-dribbble"></i>
+                    <i class="fa-brands fa-square-behance"></i>
                   </a>
                 </li>
                 <li className="hover-this cursor-pointer ml-10">
@@ -80,7 +87,7 @@ function Footer() {
         <div className="pt-30 pb-30 mt-80 bord-thin-top">
           <div className="text-center">
             <p className="fz-14">
-              © 2024 Webfolio is Proudly Powered by{' '}
+              © 2024 Webfolio is Proudly Powered by{" "}
               <span className="underline main-color">
                 <a href="https://themeforest.net/user/UiCamp" target="_blank">
                   UiCamp
