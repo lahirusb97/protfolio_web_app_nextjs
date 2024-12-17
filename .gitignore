@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Images or other uploads
+/uploads/
